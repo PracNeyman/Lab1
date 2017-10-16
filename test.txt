@@ -1,3 +1,7 @@
 test
 change for git 1
+<<<<<<< HEAD
 now , branch B1 update test.txt
+=======
+change test in branch C4
+>>>>>>> C4
