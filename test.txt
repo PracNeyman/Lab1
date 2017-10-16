@@ -1,2 +1,3 @@
 test
 change for git 1
+now , branch B1 update test.txt
