@@ -1,0 +1,2 @@
+this is branch B1 in b.txt
+this is branch B2 in b.txt

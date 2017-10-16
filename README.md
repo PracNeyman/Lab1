@@ -1,16 +1,12 @@
-﻿# Visualize-Ur-Text
-change for git 1
-
+# Visualize-Ur-Text
 Lab1-Pair_Programming
 
 Collaborators: 武德浩，李博
 
-**工期记录**
+![初步构想](http://opmza2br0.bkt.clouddn.com/17-9-25/50312734.jpg)
 
-1. 9.11晚，李博完成了图的基类以及接口，武德浩完成了GUI 2.0版本。
-2. 9.12凌晨，整合，完成了整体框架。
+Add for a third commit
 
-初步构想：GBA
+this is branch B1 in README.md
 
-![初步构想](http://opmza2br0.bkt.clouddn.com/17-9-11/59871188.jpg)
-
+this is branch B2 in README.md
