@@ -1,9 +1,14 @@
+﻿
 ﻿# Visualize-Ur-Text
 change for git 1
+
+=======
+# Visualize-Ur-Text
 
 Lab1-Pair_Programming
 
 Collaborators: 武德浩，李博
+
 
 **工期记录**
 
@@ -22,4 +27,13 @@ then, B1 update readme.md
 =======
 change readme.md in branch C4
 
+
+=======
+![初步构想](http://opmza2br0.bkt.clouddn.com/17-9-25/50312734.jpg)
+
+Add for a third commit
+
+this is branch B1 in README.md
+
+this is branch B2 in README.md
 
