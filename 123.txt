@@ -1,4 +1,12 @@
 123
 change for git 1
 
+
 here,B2 update 123
+=======
+
+B1 update 123
+=======
+change 123 in branch C4
+
+
