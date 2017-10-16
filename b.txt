@@ -1,2 +1,1 @@
-this is branch C1 in b.txt
-
+this is branch B1 in b.txt
