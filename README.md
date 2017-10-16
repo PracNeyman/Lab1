@@ -1,4 +1,6 @@
-# Visualize-Ur-Text
+﻿# Visualize-Ur-Text
+change for git 1
+
 Lab1-Pair_Programming
 
 Collaborators: 武德浩，李博
