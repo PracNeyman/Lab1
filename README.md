@@ -1,8 +1,6 @@
 ﻿# Visualize-Ur-Text
 change for git 1
 
-change for git 2 in readme
-
 Lab1-Pair_Programming
 
 Collaborators: 武德浩，李博
